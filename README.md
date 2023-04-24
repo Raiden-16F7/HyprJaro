@@ -1,4 +1,4 @@
-# HyprV2
+# Hyprland Install Script
 An improved Hyprland deployment
 
 collection of dot config files for hyprland with a simple install script for a fresh Arch linux with yay
