@@ -5,9 +5,9 @@
     "passthrough": false,
     "gtk-layer-shell": true,
     "height": 50,
-    "modules-left": ["custom/launch_wofi","wlr/workspaces","cpu","memory","clock","custom/power_btn"],
+    "modules-left": ["custom/launch_wofi","wlr/workspaces","cpu","memory","clock"],
     "modules-center": ["hyprland/window"],
-    "modules-right": ["backlight","pulseaudio","pulseaudio#microphone","battery","tray","custom/light_dark"],
+    "modules-right": ["backlight","pulseaudio","pulseaudio#microphone","battery","tray","custom/power_btn"],
     
     "hyprland/window": {
         "format": "{}"
